@@ -1,15 +1,17 @@
 <!-- In this section add logo or name of the proyect -->
 <h1 align="center">dockerfiles</h1>
 
+<p align="center">
+<img src="https://github.com/docker/docker/blob/master/docs/static_files/docker-logo-compressed.png" alt="dockerfiles logo" width="400">
+</p>
+
 <!-- In this section add a brief description of the proyect, add (WIP) if is a work in progress -->
 <div align="center">:whale: Docker files for multiple environment ambient.</div>
 <br />
 <div align="center">
 </div>
 
-<p align="center">
-<img src="https://github.com/docker/docker/blob/master/docs/static_files/docker-logo-compressed.png" alt="dockerfiles logo" width="400">
-</p>
+
 
 
 
