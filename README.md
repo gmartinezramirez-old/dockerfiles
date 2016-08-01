@@ -7,6 +7,12 @@
 <div align="center">
 </div>
 
+<p align="center">
+<img src="https://github.com/docker/docker/blob/master/docs/static_files/docker-logo-compressed.png" alt="dockerfiles logo" width="400">
+</p>
+
+
+
 <!-- In this section add TOC for easy navegation -->
 <p align="center">
 <b><a href="#overview">Overview</a></b>
